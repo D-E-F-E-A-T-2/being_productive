@@ -1,0 +1,8 @@
+Exit: Using ctrl+c or close directly.
+Working:
+Choose from provided options (1, 'yes', 'YES') or else type anything:
+--> If you choose from provided options then you are able to set your own cycle.
+Note: Cycle time is given in minutes so if you want 1 hour time use 60 (not 1).
+--> If you typed something else than It is automatically setted to 5 minutes(You can change from script).
+=======================================================================================
+=======================================================================================
