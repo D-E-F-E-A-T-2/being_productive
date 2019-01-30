@@ -1,4 +1,6 @@
-#! /usr/bin/env
+#! /usr/bin/env python
+# -*- codig: utf-8 -*-
+
 from time import *
 
 print('Use \'ctrl+c\' to Exit\n')
