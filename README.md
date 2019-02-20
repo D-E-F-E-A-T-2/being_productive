@@ -1,5 +1,5 @@
 # being_productive
-Keeping a check on our work performance will help in becoming more work
+Keeping a check on our work performance will help you in becoming more work
 ```diff
 - productive
 ```
