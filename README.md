@@ -1,5 +1,6 @@
 # being_productive
-Keeping a check on our work performance will help in becoming more work ```diff
+Keeping a check on our work performance will help in becoming more work
+```diff
 - productive
 ```
 , So am sharing my little aoutomated python script work_checker
