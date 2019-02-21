@@ -11,3 +11,7 @@ Keeping a check on our work performance will help you in becoming more work
 S-shots::::::::::
 
 ![pro1](https://user-images.githubusercontent.com/41824020/53066265-ffd00c00-34f4-11e9-97e2-19a238d3523b.png)
+
+![pro2](https://user-images.githubusercontent.com/41824020/53184963-0dd07a80-3624-11e9-8b15-42aca799e0de.png)
+
+![pro3](https://user-images.githubusercontent.com/41824020/53184984-1b860000-3624-11e9-8334-5a3cd45d8625.png)
