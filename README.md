@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/being_productive.svg)](http://hits.dwyl.io/D-E-F-E-A-T/being_productive)
+
+
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 # being_productive
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
